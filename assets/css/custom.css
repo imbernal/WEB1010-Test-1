@@ -1,0 +1,16 @@
+.home-carousel {
+  position: relative;
+  top: -20px;
+}
+.aboutMe {
+  padding-top: 3%;
+  margin-top: -2%;
+  background: #e7e7e7;
+}
+.aboutMe .text {
+  padding-left: 20px;
+}
+.aboutMe .titleSection {
+  margin-bottom: 3%;
+  text-align: center;
+}
